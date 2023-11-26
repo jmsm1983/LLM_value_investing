@@ -1,0 +1,18 @@
+What notable changes have been observed in the company's working capital? Detail these changes in bullet points, explaining whether they're increasing or decreasing and the underlying reasons.
+How is the company's operating cash flow performing? Is it on an upward or downward trajectory?
+List the key items impacting operating cash flow and their variations in bullet points with brief descriptions.
+Is the company reporting a negative cash flow from operations? If so, Enumerate the primary reasons for a negative operating cash flow using bullet points.
+Does the cash flow from operations consistently lag behind net income? If so, this might indicate potential earnings manipulations.
+Is the company's cash flow from investments consistently exceeding its cash flow from operations?
+Is the company currently implementing a share buyback program? If so, Describe the buyback program's particulars in bullet points with brief explanations.
+How are capital expenditures, and depreciation & amortization trends evolving?
+Specify which assets are being targeted for CAPEX using bullet points with brief descriptions.
+How is the company's free cash flow trending? Is it growing or shrinking? Delve into the reasons behind this trend in bullet points with concise explanations.
+Is the company resorting to one-time sales to reduce debt?
+Is the debt-to-equity ratio exceeding 200%? A high ratio might be a red flag for potential liquidity issues.
+Is the interest coverage ratio showing a downward trend?
+Detail the company's goodwill and its origin.
+Are there any off-balance sheet items or Variable Interest Entities (VIEs)? Describe them using bullet points if they exist.
+Does the company have any operating leases in place? Enumerate these leases in bullet points, detailing their specifics and associated amounts.
+What are the maturities of the company's long-term debts, and what is the overall debt magnitude? Summarize these details using bullet points with brief descriptions and amounts.
+Has there been a significant change in cash position without any evident corporate action?

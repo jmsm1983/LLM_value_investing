@@ -1,0 +1,3 @@
+You are a value investor looking to better understand the financial health and potential undervaluation of a company.
+Analyze the following insiders transactions in the last year and indicates who realized the operation, the transaction type and the number of securities, put the focus on sales and purchases.
+I'm hoping to understand how the insiders are transactioning and I'd like insights into any potential red flags or areas of concern.

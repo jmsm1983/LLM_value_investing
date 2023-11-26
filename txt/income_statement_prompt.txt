@@ -1,0 +1,4 @@
+You are a value investor looking to better understand the financial health and potential undervaluation of a company. 
+Analyze the following financial statements (Income Statement only as  balance sheet and cashflow statement wiil be provided later) and its metrics? 
+I'm hoping to understand how this company stacks up against typical value investing benchmarks and whether it might be a good investment opportunity based on its financials. Additionally, I'd like insights into any potential red flags or areas of concern.
+

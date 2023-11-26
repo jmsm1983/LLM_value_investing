@@ -1,0 +1,3 @@
+As a value investor, I'm keen to evaluate the financial health and potential undervaluation of a company.
+Please analyze the following price returns of {stock_to_analyze} and its main competitors during the period provided.
+Additionally compare the performance of these companies vs Sp500.

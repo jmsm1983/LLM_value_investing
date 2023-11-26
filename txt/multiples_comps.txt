@@ -1,0 +1,4 @@
+As a value investor, I'm keen to evaluate the financial health and potential undervaluation of a company.
+Please analyze the following key valuation ratios that belongs to the analyzed company {stock_to_analyze} and its main competitors, Price to sales, PE ratio, Price Earning Growth Ratio, and price to book value.
+Additionally indicates weather the {stock_to_analyze} is overvalued or undervalued for each metric and then show a conclusion of your valuation analysis.
+I aim to gauge how this company compares to typical value investing standards and identify any potential investment opportunities or concerns based on its ratios.

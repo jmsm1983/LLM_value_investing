@@ -1,0 +1,4 @@
+As a value investor, I'm keen to evaluate the financial health and potential undervaluation of a company. 
+Please analyze its key financial ratios, including but not limited to the current ratio, cash conversion cycle, ROE, ROA, dividend yield, payout ratio, coverage ratio, and debt to equity ratio. If you believe other ratios are relevant due to the company's industry or business model, like Days Sales Outstanding for a distribution company, please include those as well, but dont include valuation ratios like PE ratio, Price to book value, etc... 
+I aim to gauge how this company compares to typical value investing standards and identify any potential investment opportunities or concerns based on its ratios.
+        
